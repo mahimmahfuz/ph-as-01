@@ -1,0 +1,33 @@
+*{
+    font-family: "Fira Sans", serif;
+}
+body{
+    /* background-color: lightgrey; */
+    margin: 0;
+}
+.wrapper{
+    width: 1280px;
+    /* background-color: lightcoral; */
+    /* height: 1000px; */
+    margin: 0 auto;
+}
+.st{
+    width: auto; /* to get full width the parent element have */
+    height: 300px;
+}
+#banner{
+    background-color: lightblue;
+}
+#vision{
+    background-color: lightcoral;
+}
+#news{
+    background-color: lightgoldenrodyellow;
+}
+#donate{
+    background-color: lightgreen;
+}
+
+
+
+/* BANNER CSS START */

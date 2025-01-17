@@ -1,0 +1,23 @@
+#nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#nav h1{
+    font-size: 32px;
+    color: #0E0E0E;
+    font-weight: 800;
+    margin: 25px 0px 25px 0px;
+}
+#nav button{
+    width: auto;
+    height: 52px;
+    border: 2px solid #006A50;
+    border-radius: 15px;
+    padding: 15px 30px 15px 30px;
+    font-family: "Fira Sans", serif;
+    background-color: white;
+    color: #006A50;
+    font-size: 18px;
+    font-weight: 600;
+}

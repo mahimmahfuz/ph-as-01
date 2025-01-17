@@ -42,3 +42,10 @@
     border: 2px solid #006A50;
     border-radius: 15px;
 }
+
+#news .card_container .card_item .card_info .date_and_time button:hover{
+    background-color: #FFFFFF;
+    color: #006A50;
+    transition: 0.5s;
+    cursor: pointer;
+}

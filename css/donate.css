@@ -34,6 +34,10 @@
     color: #3E3E3E;
     border: 1px solid #DBDBDB;
 }
+#donate .card_container .card_item:hover{
+    background-color: #C6E4D6;
+    transition: 0.3s;
+}
 #donate .input{
     display: flex;
     flex-direction: column;
@@ -61,6 +65,12 @@
     border: 2px solid #006A50;
     border-radius: 15px;
     margin-bottom: 32px;
+}
+#donate .button button:hover{
+    background-color: #FFFFFF;
+    color: #006A50;
+    transition: 0.5s;
+    cursor: pointer;
 }
 #donate .card_container .selected{
     background-color: #C6E4D6;

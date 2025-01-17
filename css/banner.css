@@ -33,3 +33,9 @@
     border: 2px solid #006A50;
     border-radius: 15px;
 }
+#banner .info button:hover{
+    background-color: #FFFFFF;
+    color: #006A50;
+    transition: 0.5s;
+    cursor: pointer;
+}

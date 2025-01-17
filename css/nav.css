@@ -16,8 +16,15 @@
     border-radius: 15px;
     padding: 15px 30px 15px 30px;
     font-family: "Fira Sans", serif;
-    background-color: white;
+    background-color: FFFFFF;
     color: #006A50;
     font-size: 18px;
     font-weight: 600;
+}
+
+#nav button:hover{
+    background-color: #006A50;
+    color: #FFFFFF;
+    transition: 0.5s;
+    cursor: pointer;
 }

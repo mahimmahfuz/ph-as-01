@@ -32,7 +32,10 @@
     margin-right: 0;
     background-color: #F7EBCF;
 }
-/* #vision .card_container .card_item h3{} */
+#vision .card_container .card_item img{
+    height: 64px;
+    width: auto;
+}
 #vision .card_container .card_item p{
     color: #565656;
     font-size: 16px;

@@ -1,0 +1,44 @@
+#news{
+    height: fit-content;
+    margin-top: 72px;
+}
+#news .info h2{
+    font-size: 32px;
+    color: #0E0E0E;
+    font-weight: 800;
+    margin: 25px 0px 25px 0px;
+}
+#news .info p{
+    color: #565656;
+}
+#news .card_container .card_item{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center; 
+    background-color: #FFFFFF;
+    padding: 48px;
+    border-radius: 28px;
+    gap: 32px;
+    margin-bottom: 20px;
+}
+#news .card_container .card_item .card_img img{
+    border-radius: 28px;
+    height: 306px;
+    width: auto;
+}
+#news .card_container .card_item .card_info .date_and_time{
+    color: #565656;
+    margin-top: 14px;
+}
+#news .card_container .card_item .card_info .date_and_time .time{
+    margin-left: 20px;
+}
+#news .card_container .card_item .card_info .date_and_time button{
+    color: #FFFFFF;
+    font-weight: 600;
+    padding: 13px 26px;
+    background-color: #006A50;
+    font-size: 18px;
+    border: 2px solid #006A50;
+    border-radius: 15px;
+}

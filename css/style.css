@@ -2,7 +2,7 @@
     font-family: "Fira Sans", serif;
 }
 body{
-    /* background-color: lightgrey; */
+    background-color: #F5F5F5;
     margin: 0;
 }
 .wrapper{
@@ -19,11 +19,10 @@ body{
     background-color: lightblue;
 }
 /* #vision{} */
-#news{
-    background-color: lightgoldenrodyellow;
-}
+/* #news{} */
 #donate{
     background-color: lightgreen;
+    margin-top: 100px;
 }
 
 

@@ -1,0 +1,67 @@
+#donate{
+    margin-top: 72px;
+    margin-bottom: 72px;
+    height: fit-content;
+}
+#donate .info{
+    text-align: center;
+    width: 1071px;
+    margin: 0 auto;
+}
+#donate .info h2{
+    font-size: 32px;
+    color: #0E0E0E;
+    font-weight: 800;
+    margin: 25px 0px;
+}
+#donate .info p{
+    color: #565656;
+}
+#donate .card_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    width: 1071px;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+#donate .card_container .card_item{
+    padding: 40px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #3E3E3E;
+    border: 1px solid #DBDBDB;
+}
+#donate .input{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
+#donate .input input{
+    width: 1032px;
+    margin: 32px 0;
+    border: none;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 1px 1px #DBDBDB;
+}
+#donate .button{
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+}
+#donate .button button{
+    color: #FFFFFF;
+    font-weight: 600;
+    padding: 13px 26px;
+    background-color: #006A50;
+    font-size: 18px;
+    border: 2px solid #006A50;
+    border-radius: 15px;
+    margin-bottom: 32px;
+}
+#donate .card_container .selected{
+    background-color: #C6E4D6;
+}

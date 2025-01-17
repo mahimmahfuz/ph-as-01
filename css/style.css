@@ -7,24 +7,5 @@ body{
 }
 .wrapper{
     width: 1280px;
-    /* background-color: lightcoral; */
-    /* height: 1000px; */
     margin: 0 auto;
 }
-.st{
-    width: auto; /* to get full width the parent element have */
-    height: 300px;
-}
-#banner{
-    background-color: lightblue;
-}
-/* #vision{} */
-/* #news{} */
-#donate{
-    background-color: lightgreen;
-    margin-top: 100px;
-}
-
-
-
-/* BANNER CSS START */
